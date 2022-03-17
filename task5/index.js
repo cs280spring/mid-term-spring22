@@ -5,7 +5,6 @@ switch (/* TODO */){
   case /* TODO */:
   case /* TODO */:
   case /* TODO */:
-  case /* TODO */:
   default:
 }
 
