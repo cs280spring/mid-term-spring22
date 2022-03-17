@@ -16,7 +16,7 @@ const array2 = new Int32Array([5, 4, 6, 7]);
   TODO: Obtaining the result from the worker
 */
 myWorker.onmessage = function(e) {
-  let result = /* TODO */;
+  let result = "" /* TODO: delete "" and replace with your answer */;
   document.querySelector('#app').innerText = `Calculation Result: ${result}`;
 }
 
